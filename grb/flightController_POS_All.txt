@@ -1,0 +1,42 @@
+### Module positions - created on 2022-08-15 12:01
+### Printed by pcb_positions plugin
+## Unit = mm, Angle = deg.
+## Pcb Height 100.100mm, Pcb Width 100.100mm [based on Edge bounding box]
+## Side : ALL
+## Board Aux Origin: 0.000mm ,0.000mm
+# Ref         Val                 Package                       PosX       PosY       Pin1_PosX  Pin1_PosY    Rot     Side      Type
+R1            1k                  R_0603_1608Metric             202.7000   -117.1700  201.8750   -117.1700     0.0    top       SMD
+R2            0m50                R_2512_6332Metric             166.0375   -130.0000  163.0750   -130.0000     0.0    top       SMD
+TP6           esc3                TestPoint_Pad_3.0x3.0mm       138.0000   -138.0000  138.0000   -138.0000     0.0    top       VIRTUAL
+TP1           esc1                TestPoint_Pad_3.0x3.0mm       177.0000   -114.0000  177.0000   -114.0000     0.0    top       VIRTUAL
+C7            C                   C_0603_1608Metric             207.8500   -108.6100  207.0750   -108.6100     0.0    top       SMD
+L1            33uh                L_6.3x6.3_H3                  157.0000   -132.0000  154.2500   -132.0000     0.0    top       SMD
+C5            C                   C_0603_1608Metric             202.7000   -114.6600  201.9250   -114.6600     0.0    top       SMD
+C4            C                   C_0603_1608Metric             207.8500   -111.1200  207.0750   -111.1200     0.0    top       SMD
+TP3           esc2                TestPoint_Pad_3.0x3.0mm       177.0000   -133.0000  177.0000   -133.0000     0.0    top       VIRTUAL
+U1            INA139              SOT-23-5                      165.0000   -112.0000  163.8625   -111.0500     0.0    top       SMD
+TP8           esc4                TestPoint_Pad_3.0x3.0mm       138.0000   -124.0000  138.0000   -124.0000     0.0    top       VIRTUAL
+TP2           esc1                TestPoint_Pad_3.0x3.0mm       177.0000   -108.0000  177.0000   -108.0000     0.0    top       VIRTUAL
+C3            220uf               CP_EIA-7343-15_Kemet-W_Pad2.. 148.0000   -130.0000  148.0000   -133.2000    90.0    top       SMD
+TP4           esc2                TestPoint_Pad_3.0x3.0mm       177.0000   -140.0000  177.0000   -140.0000     0.0    top       VIRTUAL
+J2            Con                 PinHeader_1x04_P1.00mm_Vert.. 136.0000   -110.0000  136.0000   -110.0000     0.0    top       THD
+C1            0.1uf               C_0603_1608Metric             198.1000   -119.7100  197.3250   -119.7100     0.0    top       SMD
+J3            batt                TestPoint_Pad_D4.0mm          160.0000   -105.0000  160.0000   -105.0000     0.0    top       VIRTUAL
+D1            MURS420             D_SMA                         147.0000   -120.0000  147.0000   -122.0000    90.0    top       SMD
+TP7           esc4                TestPoint_Pad_3.0x3.0mm       138.0000   -117.0000  138.0000   -117.0000     0.0    top       VIRTUAL
+J1            gnd                 TestPoint_Pad_D4.0mm          151.0000   -105.0000  151.0000   -105.0000     0.0    top       VIRTUAL
+R5            2k                  R_0603_1608Metric             206.7100   -114.6600  205.8850   -114.6600     0.0    top       SMD
+C6            C                   C_0603_1608Metric             188.0000   -123.0000  187.2250   -123.0000     0.0    top       SMD
+TP5           esc3                TestPoint_Pad_3.0x3.0mm       138.0000   -131.0000  138.0000   -131.0000     0.0    top       VIRTUAL
+R4            3.4k                R_0603_1608Metric             192.0100   -124.7600  191.1850   -124.7600     0.0    top       SMD
+IC1           XL1583              SOIC127P600X175-8N            156.0000   -124.0000  153.2750   -122.0950     0.0    top       SMD
+## End
+## 37 SMD pads
+## 4 TH pads
+## 10 Virtual pads
+## 1 Top TH modules
+## 0 Bot TH modules
+## 14 Top SMD modules
+## 0 Bot SMD modules
+## 10 Top Virtual modules
+## 0 Bot Virtual modules

@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model XL1583
+#/13399124/137229/2.49/8/3/Integrated Circuit
+DEF XL1583 IC 0 30 Y Y 1 F N
+F0 "IC" 950 300 50 H V L CNN
+F1 "XL1583" 950 200 50 H V L CNN
+F2 "SOIC127P600X175-8N" 950 100 50 H I L CNN
+F3 "https://pdf1.alldatasheet.com/datasheet-pdf/view/763160/ETC2/XL1583E1.html" 950 0 50 H I L CNN
+F4 "3A 380KHz 23V Buck DC to DC Converter" 950 -100 50 H I L CNN "Description"
+F5 "1.75" 950 -200 50 H I L CNN "Height"
+F6 "XLSEMI" 950 -300 50 H I L CNN "Manufacturer_Name"
+F7 "XL1583" 950 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 950 -500 50 H I L CNN "Mouser Part Number"
+F9 "" 950 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 950 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 950 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X NC_1 1 0 0 200 R 50 50 0 0 P
+X VIN 2 0 -100 200 R 50 50 0 0 P
+X SW 3 0 -200 200 R 50 50 0 0 P
+X GND 4 0 -300 200 R 50 50 0 0 P
+X NC_3 8 1100 0 200 L 50 50 0 0 P
+X EN 7 1100 -100 200 L 50 50 0 0 P
+X NC_2 6 1100 -200 200 L 50 50 0 0 P
+X FB 5 1100 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 900 100 900 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

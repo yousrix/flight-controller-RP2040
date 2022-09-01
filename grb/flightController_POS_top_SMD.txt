@@ -1,0 +1,22 @@
+### Module positions - created on 2022-08-15 12:01
+### Printed by pcb_positions plugin
+## Unit = mm, Angle = deg.
+## Pcb Height 100.100mm, Pcb Width 100.100mm [based on Edge bounding box]
+## Side : top
+## Board Aux Origin: 0.000mm ,0.000mm
+# Ref         Val                 Package                       PosX       PosY       Pin1_PosX  Pin1_PosY    Rot     Side      Type
+R1            1k                  R_0603_1608Metric             202.7000   -117.1700  201.8750   -117.1700     0.0    top       SMD
+R2            0m50                R_2512_6332Metric             166.0375   -130.0000  163.0750   -130.0000     0.0    top       SMD
+C7            C                   C_0603_1608Metric             207.8500   -108.6100  207.0750   -108.6100     0.0    top       SMD
+L1            33uh                L_6.3x6.3_H3                  157.0000   -132.0000  154.2500   -132.0000     0.0    top       SMD
+C5            C                   C_0603_1608Metric             202.7000   -114.6600  201.9250   -114.6600     0.0    top       SMD
+C4            C                   C_0603_1608Metric             207.8500   -111.1200  207.0750   -111.1200     0.0    top       SMD
+U1            INA139              SOT-23-5                      165.0000   -112.0000  163.8625   -111.0500     0.0    top       SMD
+C3            220uf               CP_EIA-7343-15_Kemet-W_Pad2.. 148.0000   -130.0000  148.0000   -133.2000    90.0    top       SMD
+C1            0.1uf               C_0603_1608Metric             198.1000   -119.7100  197.3250   -119.7100     0.0    top       SMD
+D1            MURS420             D_SMA                         147.0000   -120.0000  147.0000   -122.0000    90.0    top       SMD
+R5            2k                  R_0603_1608Metric             206.7100   -114.6600  205.8850   -114.6600     0.0    top       SMD
+C6            C                   C_0603_1608Metric             188.0000   -123.0000  187.2250   -123.0000     0.0    top       SMD
+R4            3.4k                R_0603_1608Metric             192.0100   -124.7600  191.1850   -124.7600     0.0    top       SMD
+IC1           XL1583              SOIC127P600X175-8N            156.0000   -124.0000  153.2750   -122.0950     0.0    top       SMD
+## End
